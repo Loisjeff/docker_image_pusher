@@ -1,1 +1,1 @@
-easzlab/kubeasz
+alpine:3.19.1
