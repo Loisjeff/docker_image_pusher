@@ -1,1 +1,2 @@
 alpine:3.19.1
+nfs-subdir-external-provisioner:v4.0.0
